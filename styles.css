@@ -28,6 +28,22 @@ header, main{
     max-width: 1440px;
 }
 
-header
+header {
+    font-size: 18px;
+}
 
+.img{
+    display: flex;
+    justify-content: flex-start;
+}
 
+.purple{
+    background-color: var(--Purple500);
+}
+.darkgrey {
+    background-color: var(--Grey400);
+}
+
+{
+
+}
